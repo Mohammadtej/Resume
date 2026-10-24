@@ -32,6 +32,14 @@
 - Article: https://dev.to/mohammad515253/sqlgo-save-co2-by-optimizing-queries-and-removing-redundant-storage-3
 - Demo: https://youtu.be/5QwQcw3IpXI?si=i8Uu8bLr6Y9-qQfV
 
+## Skills
+
+### Programming languages: Java, C++, JavaScript
+### Web Development: React, Django, Oracle ADF, Oracle Redwood
+### Database: Oracle SQL, Microsoft T SQL, MongoDB
+### Tools & Technologies: Git, Docker, Azure, Linux, Shell Scripting, Confluence, JIRA
+### AI Tools: Codex, Gemini
+
 ## Achievements
 
 - Published novel integer sequence https://oeis.org/A345645 A345645 on the On-Line Encyclopedia of Integer Sequences (OEIS)
